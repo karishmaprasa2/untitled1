@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "246928857627",
+    "firebase_url": "https://fir-storge-de5cb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-storge-de5cb",
+    "storage_bucket": "fir-storge-de5cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246928857627:android:a5d35904392cac850176be",
+        "android_client_info": {
+          "package_name": "com.example.firestorges"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzn4d0grm4Blx-usQLMrsQU-IbFkZ33w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246928857627:android:3567d31b0cbb64470176be",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzn4d0grm4Blx-usQLMrsQU-IbFkZ33w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
